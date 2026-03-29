@@ -1,0 +1,29 @@
+Phishing Case Study :
+Phishing is a type of cybercrime in which attackers attempt to trick individuals into revealing sensitive information such as passwords, OTPs, or banking details by pretending to be a trusted entity. A common example involves fake emails or messages that appear to come from banks, payment apps, or government services.
+
+In a typical scenario, a student receives an email claiming that their bank account will be blocked unless they verify their details immediately. The message includes a link that redirects to a fake website designed to look identical to the official bank portal. When the user enters their login credentials and OTP, the attacker captures this information and gains access to the victim’s account.
+
+Phishing attacks often create a sense of urgency or fear to manipulate users into acting quickly without verifying authenticity. Students and young users are frequent targets due to their high online activity and limited awareness of cyber threats.
+
+The consequences of phishing can be severe, including financial loss, identity theft, and unauthorized access to personal accounts. In India, such incidents are increasingly reported, especially involving UPI fraud and fake payment requests.
+
+Victims of phishing should immediately report the incident on the National Cyber Crime Portal (cybercrime.gov.in) or contact the helpline number 1930 for quick assistance and possible recovery of funds.
+
+
+
+Stay Safe Online – Prevention Tips:
+1. Never click on suspicious links received via email, SMS, or social media.
+
+2. Always check the website URL carefully — ensure it is official and secure (https://).
+
+3. Do not share OTPs, passwords, or bank details with anyone, even if they claim to be from a bank.
+
+4. Avoid responding to messages that create urgency or threaten account suspension.
+
+5. Enable two-factor authentication (2FA) on important accounts.
+
+6. For UPI safety: Never approve unknown payment requests or "collect requests" from strangers.
+
+7. For UPI safety: Verify the recipient’s details carefully before sending money.
+
+8. Immediately report any suspicious activity to cybercrime.gov.in or call 1930.
